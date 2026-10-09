@@ -14,3 +14,6 @@
   - web event display: https://opendata.cern.ch/visualise/events/cms
   - jpsi->ee event csv file: https://opendata.cern.ch/record/302/files/dielectron-Jpsi.csv
 - 10월 13일: TBD
+- 10월 20일: 중간고사기간
+- 10월 27일: 학회
+- 11월 3일?
