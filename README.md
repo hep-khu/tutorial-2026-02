@@ -14,6 +14,7 @@
   - web event display: https://opendata.cern.ch/visualise/events/cms
   - jpsi->ee event csv file: https://opendata.cern.ch/record/302/files/dielectron-Jpsi.csv
 - 10월 13일: jpsi->ee event 분석, gaussian fit, gaus+linear fit
+  - 미팅 시간 중 업데이트한 코드: https://github.com/hep-khu/tutorial-2026-02/blob/main/basic02/dglee0202_J_Psi_to_ee_histogram.ipynb 
 - 10월 20일: 중간고사기간
 - 10월 28일 (수요일): Toy MC generation 예정
 - 11월 3일: TBD
