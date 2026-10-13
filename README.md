@@ -13,7 +13,7 @@
   - 과제: cms open data중 jpsi->ee event의 csv파일을 읽어 jpsi candidate의 mass distribution을 그려보기
   - web event display: https://opendata.cern.ch/visualise/events/cms
   - jpsi->ee event csv file: https://opendata.cern.ch/record/302/files/dielectron-Jpsi.csv
-- 10월 13일: TBD
+- 10월 13일: jpsi->ee event 분석, gaussian fit, gaus+linear fit
 - 10월 20일: 중간고사기간
-- 10월 27일: 학회
-- 11월 3일?
+- 10월 28일 (수요일): Toy MC generation 예정
+- 11월 3일: TBD
