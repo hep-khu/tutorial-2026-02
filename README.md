@@ -20,4 +20,4 @@
   - 파이썬 코드: https://github.com/hep-khu/tutorial-2026-02/blob/main/basic03/particle_decay.ipynb
   - 과제: Higgs at rest frame -> ZZ -> 4 muon event generation 해서 pt순으로 정렬한 뮤온의 pt분포 4개 겹쳐 그리기
   - 과제: Higgs at rest frame -> 4 muon phase space decay해서 pt 순 정렬, pt 분포 4개 겹쳐 그리고 위 결과와 비교하기
-- 11월 3일: TBD
+- 11월 3일: 검출기 측정오차 효과 넣기
