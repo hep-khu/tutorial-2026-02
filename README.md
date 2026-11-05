@@ -22,4 +22,6 @@
   - TGenPhaseSpace class의 reference manual: https://root.cern/doc/v632/classTGenPhaseSpace.html
   - 과제: Higgs at rest frame -> ZZ -> 4 muon event generation 해서 pt순으로 정렬한 뮤온의 pt분포 4개 겹쳐 그리기
   - 과제: Higgs at rest frame -> 4 muon phase space decay해서 pt 순 정렬, pt 분포 4개 겹쳐 그리고 위 결과와 비교하기
-- 11월 3일: 검출기 측정오차 효과 넣기
+- 11월 3일:
+  - ZZ->4 muon ToyMC 코드 개선, 해석
+  - 4 body decay중 leading 3 lepton에 대한 dalitz plot 그리고 해석하기
