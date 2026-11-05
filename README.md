@@ -24,4 +24,6 @@
   - 과제: Higgs at rest frame -> 4 muon phase space decay해서 pt 순 정렬, pt 분포 4개 겹쳐 그리고 위 결과와 비교하기
 - 11월 3일:
   - ZZ->4 muon ToyMC 코드 개선, 해석
+  - 파이썬 코드: https://github.com/hep-khu/tutorial-2026-02/blob/main/basic04/higgs_to_zz_zz_to_muon.ipynb
   - 4 body decay중 leading 3 lepton에 대한 dalitz plot 그리고 해석하기
+  - 전반적 과정 리뷰, 종료
